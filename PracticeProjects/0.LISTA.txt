@@ -1,0 +1,53 @@
+Nivel Principiante:
+
+1.Lista de tareas.
+1.Temporizador y alarma.
+1.Generador de figuras ASCII.
+1.Validador de contraseñas.
+
+Nivel Intermedio:
+
+2.Aplicación de notas.
+2.Calculadora de propinas.
+2.Generador de gráficos.
+2.Juego de Preguntas y Respuestas.
+2.Registro y autenticación de usuarios.
+2.Aplicación de clima.
+2.Generador de memes.
+2.Lista de compras.
+2.Juego de Blackjack.
+2.Generador de informes PDF.
+
+Nivel Avanzado:
+
+3.Aplicación de noticias.
+3.Sistema de reservas.
+3.Juego de Laberinto.
+3.Aplicación de chat en tiempo real.
+3.Plataforma de blogging.
+3.Simulador de vuelo.
+3.Aplicación de planificación de viajes.
+3.Sistema de administración de inventario.
+3.Juego de plataforma en 2D.
+3.Aplicación de recordatorios.
+3.Aplicación de seguimiento de gastos.
+3.Plataforma de aprendizaje en línea.
+3.Juego de ajedrez.
+
+Nivel Experto:
+
+4.Plataforma de comercio electrónico.
+4.Editor de imágenes básico.
+4.Red social.
+4.Sistema de gestión de proyectos.
+4.Aplicación de recomendación de películas.
+4.Plataforma de streaming de música.
+4.Juego de estrategia en tiempo real.
+4.Aplicación de realidad aumentada.
+4.Motor de búsqueda simple.
+4.Plataforma de subastas en línea.
+4.Simulación de vida artificial.
+4.Juego multijugador en línea.
+4.Sistema de gestión de restaurantes.
+4.Aplicación de edición de video básica.
+4.Plataforma de citas en línea.
